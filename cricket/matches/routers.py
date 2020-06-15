@@ -8,7 +8,7 @@ class MatchRouter(object):
         Attempts to read console models go to console.
         """
         if model._meta.app_label == 'matches':
-            return 'default'
+            return 'matches'
         return None
 
     def db_for_write(self, model, **hints):
@@ -16,7 +16,7 @@ class MatchRouter(object):
         Attempts to write console models go to console_db.
         """
         if model._meta.app_label == 'matches':
-            return 'default'
+            return 'matches'
         return None
 
     def allow_relation(self, obj1, obj2, **hints):
@@ -34,5 +34,5 @@ class MatchRouter(object):
         database.
         """
         if app_label == 'matches':
-            return db == 'default'
+            return db == 'matches'
         return None

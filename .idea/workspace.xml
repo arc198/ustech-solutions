@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ad277ac-5674-4744-b558-900a7ba89303" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cricket/players/Asghar_Afghan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/players/Hazratullah_Zazai_.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/players/Ibrahim_Zadran.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/players/K._L._Rahul.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/players/Najibullah_Zadran.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/players/Rohit_Sharma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/players/Virat_Kohli.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/teams/AFGHANISTAN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/teams/AUSTRALIA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/teams/BANGLADESH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/teams/ENGLAND.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/teams/INDIA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/teams/IRELAND.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/teams/NEW_ZEALAND.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/teams/PAKISTAN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/teams/SOUTH_AFRICA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/teams/SRI_LANKA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/teams/WEST_INDIES.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cricket/teams/ZIMBABWE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/game/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/matches/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/matches/migrations/0002_auto_20200615_0923.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cricket/matches/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/cricket/matches/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cricket/matches/routers.py" beforeDir="false" afterPath="$PROJECT_DIR$/cricket/matches/routers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +29,14 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cricket/matches/migrations" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cricket/matches/migrations" />
+      <recent name="$PROJECT_DIR$/cricket/game/migrations" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -76,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592211078490</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="created data fro teams and playears">
+      <created>1592211432920</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211432920</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -85,10 +84,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="created data fro teams and playears" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2" timestamp="1592211420736">
+    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2" timestamp="1592211432744">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2/0.23.1440.792@0.23.1440.792" timestamp="1592211420736" />
+    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2/0.23.1440.792@0.23.1440.792" timestamp="1592211432744" />
     <state x="549" y="155" key="FileChooserDialogImpl" timestamp="1592156871468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -97,9 +96,9 @@
       <screen x="0" y="23" width="1440" height="792" />
     </state>
     <state x="146" y="58" key="SettingsEditor/0.23.1440.792@0.23.1440.792" timestamp="1592158335970" />
-    <state x="320" y="159" key="Vcs.Push.Dialog.v2" timestamp="1592211328460">
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2" timestamp="1592211445033">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state x="320" y="159" key="Vcs.Push.Dialog.v2/0.23.1440.792@0.23.1440.792" timestamp="1592211328460" />
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2/0.23.1440.792@0.23.1440.792" timestamp="1592211445033" />
   </component>
 </project>
