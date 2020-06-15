@@ -4,6 +4,8 @@ created rest APIfor interview task
 
 clone code from the repository.
 
+   source venv/bin/activate.   # only if you are creating your new environment
+
 install mysql workbench in your system
 
 install requirements.txt
