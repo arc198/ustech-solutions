@@ -2,16 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ad277ac-5674-4744-b558-900a7ba89303" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ustechsolutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ustechsolutions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/players/Asghar_Afghan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/players/Hazratullah_Zazai_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/players/Ibrahim_Zadran.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/players/K._L._Rahul.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/players/Najibullah_Zadran.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/players/Rohit_Sharma.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/players/Virat_Kohli.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/teams/AFGHANISTAN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/teams/AUSTRALIA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/teams/BANGLADESH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/teams/ENGLAND.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/teams/INDIA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/teams/IRELAND.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/teams/NEW_ZEALAND.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/teams/PAKISTAN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/teams/SOUTH_AFRICA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/teams/SRI_LANKA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/teams/WEST_INDIES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cricket/teams/ZIMBABWE.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cricket/players/sachin-tendulkar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cricket/teams/1280px-Cricket_India_Crest.svg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cricket/teams/New-Zealand.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cricket/teams/Sri_Lanka.svg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cricket/teams/WhatsApp_Image_2020-06-08_at_9.25.26_PM.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cricket/teams/WhatsApp_Image_2020-06-08_at_9.25.26_PM_8nviq3P.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cricket/teams/WhatsApp_Image_2020-06-08_at_9.25.26_PM_YKuZVN5.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +32,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dJx7fVAEZ3MqOTmEs3ZHVmz6gq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -55,9 +69,26 @@
       <option name="presentableId" value="Default" />
       <updated>1592158198253</updated>
     </task>
+    <task id="LOCAL-00001" summary="created data fro teams and playears">
+      <created>1592211078490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211078490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="created data fro teams and playears" />
+    <option name="LAST_COMMIT_MESSAGE" value="created data fro teams and playears" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2" timestamp="1592211420736">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2/0.23.1440.792@0.23.1440.792" timestamp="1592211420736" />
     <state x="549" y="155" key="FileChooserDialogImpl" timestamp="1592156871468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -66,5 +97,9 @@
       <screen x="0" y="23" width="1440" height="792" />
     </state>
     <state x="146" y="58" key="SettingsEditor/0.23.1440.792@0.23.1440.792" timestamp="1592158335970" />
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2" timestamp="1592211328460">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2/0.23.1440.792@0.23.1440.792" timestamp="1592211328460" />
   </component>
 </project>
