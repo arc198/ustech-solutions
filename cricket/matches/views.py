@@ -5,6 +5,7 @@ from game import models as gameModels
 from . import models as matchModels
 from game import validations as validation
 from game import constants as const
+import json
 
 
 
@@ -156,7 +157,7 @@ class Points(viewsets.ModelViewSet):
 
     def get_queryset(self):
         if self.request.GET.get('id'):
-            return matchModels.AmPoints.objects.filter(id=self.request.GET.get('id'))
+            return matchModels.AmPoints.objects.filter(id= self.request.GET.get('id'))
         else:
             return matchModels.AmPoints.objects.all()
 
@@ -176,7 +177,6 @@ class Points(viewsets.ModelViewSet):
             response['data'] = {}
             response['statusCode'] = const.INVALID_STATUS_CODE
             response['status'] = const.FAIL_STATUS
-
         return Response(response)
 
 

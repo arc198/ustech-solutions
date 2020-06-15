@@ -24,7 +24,7 @@ class AmMatches(gameModels.SoftDeletionModel):
 #for enhancement purpose of multi random winning calculation
 
 class AmPoints(gameModels.SoftDeletionModel):
-    team = models.ForeignKey(gameModels.AmTeam, models.DO_NOTHING, blank=True, null=True, related_name="points_own")
+    # team = models.ForeignKey(gameModels.AmTeam, models.DO_NOTHING, blank=True, null=True, related_name="points_own")
     match = models.ForeignKey(AmMatches, models.DO_NOTHING, blank=True, null=True, related_name="matches_between")
     points = models.IntegerField(blank=True, null=True)
     created_at = models.DateTimeField(auto_now_add=True, blank=True, null=True)
