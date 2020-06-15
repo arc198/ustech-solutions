@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4ad277ac-5674-4744-b558-900a7ba89303" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cricket/matches/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/cricket/matches/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cricket/matches/migrations/0002_auto_20200615_0923.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cricket/matches/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/cricket/matches/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cricket/matches/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/cricket/matches/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cricket/matches/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cricket/matches/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592213149048</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="typo fixed for points table and matches table">
+      <created>1592218094397</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592218094397</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -92,10 +94,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="typo fixed for points table and matches table" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2" timestamp="1592213148860">
+    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2" timestamp="1592218094191">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2/0.23.1440.792@0.23.1440.792" timestamp="1592213148860" />
+    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2/0.23.1440.792@0.23.1440.792" timestamp="1592218094191" />
     <state x="549" y="155" key="FileChooserDialogImpl" timestamp="1592156871468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -104,9 +106,9 @@
       <screen x="0" y="23" width="1440" height="792" />
     </state>
     <state x="146" y="58" key="SettingsEditor/0.23.1440.792@0.23.1440.792" timestamp="1592158335970" />
-    <state x="320" y="159" key="Vcs.Push.Dialog.v2" timestamp="1592213157310">
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2" timestamp="1592218106201">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state x="320" y="159" key="Vcs.Push.Dialog.v2/0.23.1440.792@0.23.1440.792" timestamp="1592213157310" />
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2/0.23.1440.792@0.23.1440.792" timestamp="1592218106201" />
   </component>
 </project>
