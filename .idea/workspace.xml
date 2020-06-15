@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ad277ac-5674-4744-b558-900a7ba89303" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ustech solution API .pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview task api details.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +26,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cricket/matches/migrations" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/cricket/matches/migrations" />
       <recent name="$PROJECT_DIR$/cricket/game/migrations" />
     </key>
@@ -91,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592218325596</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="sql databases added to git for basic testing purpose">
+      <created>1592219763023</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592219763023</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -102,10 +112,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="sql databases added to git for basic testing purpose" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2" timestamp="1592218325430">
+    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2" timestamp="1592219762867">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2/0.23.1440.792@0.23.1440.792" timestamp="1592218325430" />
+    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2/0.23.1440.792@0.23.1440.792" timestamp="1592219762867" />
     <state x="549" y="155" key="FileChooserDialogImpl" timestamp="1592156871468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -114,10 +124,10 @@
       <screen x="0" y="23" width="1440" height="792" />
     </state>
     <state x="146" y="58" key="SettingsEditor/0.23.1440.792@0.23.1440.792" timestamp="1592158335970" />
-    <state x="320" y="159" key="Vcs.Push.Dialog.v2" timestamp="1592218336356">
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2" timestamp="1592219770582">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state x="320" y="159" key="Vcs.Push.Dialog.v2/0.23.1440.792@0.23.1440.792" timestamp="1592218336356" />
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2/0.23.1440.792@0.23.1440.792" timestamp="1592219770582" />
     <state x="398" y="217" key="git4idea.merge.GitPullDialog" timestamp="1592219726167">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
