@@ -15,7 +15,9 @@ pip install -r requirements.txt
 
 create database names in mysql workbench 
 
-mysqlworkbench >>>>>> new  >>>databasename   >>>>>>create
+   for new create:-mysqlworkbench >>>>>> new  >>>databasename   >>>>>>create
+   
+   for testing with existing databse please import game.sql and matches.sql to your work bench from  thei repository.
 
 
 here we have to create two database names one is 'game' and another one is 'matches'
