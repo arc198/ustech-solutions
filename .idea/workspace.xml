@@ -112,14 +112,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="sql databases added to git for basic testing purpose" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2" timestamp="1592220418055">
+    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2" timestamp="1592220436427">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2/0.23.1440.792@0.23.1440.792" timestamp="1592220418055" />
+    <state x="317" y="23" width="806" height="792" key="CommitChangelistDialog2/0.23.1440.792@0.23.1440.792" timestamp="1592220436427" />
     <state x="549" y="155" key="FileChooserDialogImpl" timestamp="1592156871468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592156871468" />
+    <state x="144" y="92" key="MergeDialog" timestamp="1592220462866">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="144" y="92" key="MergeDialog/0.23.1440.792@0.23.1440.792" timestamp="1592220462866" />
+    <state x="431" y="142" key="MultipleFileMergeDialog" timestamp="1592220462914">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="431" y="142" key="MultipleFileMergeDialog/0.23.1440.792@0.23.1440.792" timestamp="1592220462914" />
     <state x="146" y="58" key="SettingsEditor" timestamp="1592158335970">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
